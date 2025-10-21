@@ -1,0 +1,1 @@
+A Python GUI password generator built with Tkinter. Offers strong (secure) and random password options, lets users specify length, and displays generated passwords in the interface. Supports letters, digits, and symbols for robust password creation. Provides both a terminal-based version and a Tkinter GUI
